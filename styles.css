@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+.items{
+	display:flex;
+	color:black;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+
+.item-1{
+	background-color:red;
+	padding:50px;
+	font-size:200%;
+}
+
+.item-2{
+	background-color:blue;
+	padding:50px;
+	font-size:200%;
+
+}
+
+.item-3{
+	background-color:green;
+	padding:50px;
+	font-size:200%;
+}
