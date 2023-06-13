@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.items{
+.holder{
 	display:flex;
 	color:black;
 	justify-content:space-between;
